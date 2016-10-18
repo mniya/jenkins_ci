@@ -1,2 +1,2 @@
 # jenkins_ci
-jenkins ci项目测试
+jenkins CI项目测试
